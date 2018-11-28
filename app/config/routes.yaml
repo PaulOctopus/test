@@ -1,0 +1,3 @@
+user:
+    path: /users/{page<\d+>?1}
+    controller: App\Controller\UserController::showCapricornUsers

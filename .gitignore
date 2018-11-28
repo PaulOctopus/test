@@ -1,0 +1,6 @@
+.idea
+/Vagrantfile
+/.vagrant/
+
+
+/vendor/
